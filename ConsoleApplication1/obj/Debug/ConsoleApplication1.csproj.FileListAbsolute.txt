@@ -4,3 +4,9 @@ D:\niraj\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.e
 D:\niraj\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\niraj\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\niraj\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\pk\cosoleapplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\pk\cosoleapplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\pk\cosoleapplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\pk\cosoleapplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\pk\cosoleapplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\pk\cosoleapplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

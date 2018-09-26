@@ -14,11 +14,17 @@ namespace ConsoleApplication1
             double b = 6;
             double sum = Add(a, b);
             Console.WriteLine(sum);
+            double difference = Substract(a, b);
+            Console.WriteLine(difference);
 
         }
         static double Add (double a, double b)
         {
             return (a + b);
+        }
+        static double Substract (double x ,double y)
+        {
+            return (x - y);
         }
     }
 }
